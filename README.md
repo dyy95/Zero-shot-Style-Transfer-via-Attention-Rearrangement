@@ -18,7 +18,7 @@ Z-STAR is an innovative zero-shot (training-free) style transfer method that lev
 
 ## Usage
 ```shell
-python main.py --content_image <path_to_content_image> --style_image <path_to_style_image>
+python demo.py --content_image <path_to_content_image> --style_image <path_to_style_image>
 ```
 
 ## Paper and Code
